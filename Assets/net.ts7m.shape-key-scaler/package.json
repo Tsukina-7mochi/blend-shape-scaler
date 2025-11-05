@@ -1,0 +1,10 @@
+{
+  "name": "net.ts7m.shape-key-scaler",
+  "displayName": "Shape Key Scaler",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.7.4",
+    "nadena.dev.ndmf": ">=1.9.2 <2.0.0-a"
+  }
+}
