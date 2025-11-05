@@ -1,0 +1,19 @@
+{
+    "name": "net.ts7m.shape-key-scaler.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:93d40ebe83c206942b49a6e6f943f95f",
+        "GUID:62ced99b048af7f4d8dfe4bed8373d76"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
