@@ -1,5 +1,5 @@
 {
-    "name": "net.ts7m.shape-key-scaler.editor",
+    "name": "net.ts7m.blend-shape-scaler.editor",
     "rootNamespace": "",
     "references": [
         "GUID:93d40ebe83c206942b49a6e6f943f95f",
