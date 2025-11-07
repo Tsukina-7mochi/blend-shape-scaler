@@ -1,6 +1,6 @@
 {
   "name": "net.ts7m.blend-shape-scaler",
-  "displayName": "Shape Key Scaler",
+  "displayName": "BlendShape Scaler",
   "version": "0.1.0",
   "unity": "2022.3",
   "vpmDependencies": {

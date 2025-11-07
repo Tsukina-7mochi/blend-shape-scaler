@@ -1,0 +1,23 @@
+{
+  "name": "BlendShape Scaler",
+  "id": "net.ts7m.blend-shape-scaler",
+  "url": "https://tsukina-7mochi.github.io/blend-shape-scaler/vpm.json",
+  "author": "Mooncake Sugar",
+  "packages": {
+    "net.ts7m.blend-shape-scaler": {
+      "versions": {
+        "0.1.0": {
+          "name": "net.ts7m.blend-shape-scaler",
+          "displayName": "BlendShape Scaler",
+          "version": "0.1.0",
+          "unity": "2022.3",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.7.4",
+            "nadena.dev.ndmf": ">=1.9.2 <2.0.0-a"
+          },
+          "url": "https://github.com/Tsukina-7mochi/blend-shape-scaler/releases/download/v0.1.0/net.ts7m.blend-shape-scaler-v0.2.0.zip"
+        }
+      }
+    }
+  }
+}
